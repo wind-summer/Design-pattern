@@ -9,5 +9,8 @@ package com.pattern.factory.i;
  * @since 2018/4/8
  */
 public interface Shape {
+    /**
+     * 画画抽象方法
+     */
     void draw();
 }
